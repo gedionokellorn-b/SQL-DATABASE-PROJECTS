@@ -49,7 +49,7 @@ The database contains the following proposed tables:
 5. Tools Used
 
 - MySQL
-- MySQL Workbench
+- phpmyadmin
 - GitHub
 
 6. Project Purpose
